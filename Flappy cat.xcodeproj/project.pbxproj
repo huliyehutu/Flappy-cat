@@ -14,9 +14,19 @@
 		772DC9031CF153B2005BD27B /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 772DC9021CF153B2005BD27B /* GameViewController.m */; };
 		772DC9061CF153B2005BD27B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 772DC9041CF153B2005BD27B /* Main.storyboard */; };
 		772DC9081CF153B2005BD27B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 772DC9071CF153B2005BD27B /* Assets.xcassets */; };
-		772DC90B1CF153B2005BD27B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 772DC9091CF153B2005BD27B /* LaunchScreen.storyboard */; };
 		772DC9161CF153B2005BD27B /* Flappy_catTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 772DC9151CF153B2005BD27B /* Flappy_catTests.m */; };
 		772DC9211CF153B2005BD27B /* Flappy_catUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 772DC9201CF153B2005BD27B /* Flappy_catUITests.m */; };
+		77D706EE1CF843F600B2B79B /* cat_with_wing1.png in Resources */ = {isa = PBXBuildFile; fileRef = 77D706EA1CF843F600B2B79B /* cat_with_wing1.png */; };
+		77D706F01CF843F600B2B79B /* cat_with_wing3.png in Resources */ = {isa = PBXBuildFile; fileRef = 77D706EC1CF843F600B2B79B /* cat_with_wing3.png */; };
+		77D706F11CF843F600B2B79B /* cat_with_wing2.png in Resources */ = {isa = PBXBuildFile; fileRef = 77D706ED1CF843F600B2B79B /* cat_with_wing2.png */; };
+		77D707011CFAA0F100B2B79B /* sky_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 77D707001CFAA0F100B2B79B /* sky_background.png */; };
+		77D707051CFAE7FD00B2B79B /* start_page.png in Resources */ = {isa = PBXBuildFile; fileRef = 77D707041CFAE7FD00B2B79B /* start_page.png */; };
+		77D707071CFAEB2C00B2B79B /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77D707061CFAEB2C00B2B79B /* Launch Screen.storyboard */; };
+		77D707091CFB019600B2B79B /* ice_cone.png in Resources */ = {isa = PBXBuildFile; fileRef = 77D707081CFB019600B2B79B /* ice_cone.png */; };
+		77D7070B1CFBCAFB00B2B79B /* octopus.png in Resources */ = {isa = PBXBuildFile; fileRef = 77D7070A1CFBCAFB00B2B79B /* octopus.png */; };
+		77D7070D1CFC489300B2B79B /* ice_block.png in Resources */ = {isa = PBXBuildFile; fileRef = 77D7070C1CFC489300B2B79B /* ice_block.png */; };
+		77D707101CFCF4F100B2B79B /* Spawnings.m in Sources */ = {isa = PBXBuildFile; fileRef = 77D7070F1CFCF4F100B2B79B /* Spawnings.m */; };
+		77F2672A1CF5288300397429 /* Cat.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F267291CF5288300397429 /* Cat.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +58,6 @@
 		772DC9021CF153B2005BD27B /* GameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
 		772DC9051CF153B2005BD27B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		772DC9071CF153B2005BD27B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		772DC90A1CF153B2005BD27B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		772DC90C1CF153B2005BD27B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		772DC9111CF153B2005BD27B /* Flappy catTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flappy catTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		772DC9151CF153B2005BD27B /* Flappy_catTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flappy_catTests.m; sourceTree = "<group>"; };
@@ -56,6 +65,19 @@
 		772DC91C1CF153B2005BD27B /* Flappy catUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flappy catUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		772DC9201CF153B2005BD27B /* Flappy_catUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flappy_catUITests.m; sourceTree = "<group>"; };
 		772DC9221CF153B2005BD27B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77D706EA1CF843F600B2B79B /* cat_with_wing1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat_with_wing1.png; sourceTree = "<group>"; };
+		77D706EC1CF843F600B2B79B /* cat_with_wing3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat_with_wing3.png; sourceTree = "<group>"; };
+		77D706ED1CF843F600B2B79B /* cat_with_wing2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat_with_wing2.png; sourceTree = "<group>"; };
+		77D707001CFAA0F100B2B79B /* sky_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky_background.png; sourceTree = "<group>"; };
+		77D707041CFAE7FD00B2B79B /* start_page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start_page.png; sourceTree = "<group>"; };
+		77D707061CFAEB2C00B2B79B /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		77D707081CFB019600B2B79B /* ice_cone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ice_cone.png; sourceTree = "<group>"; };
+		77D7070A1CFBCAFB00B2B79B /* octopus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = octopus.png; sourceTree = "<group>"; };
+		77D7070C1CFC489300B2B79B /* ice_block.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ice_block.png; sourceTree = "<group>"; };
+		77D7070E1CFCF37100B2B79B /* Spawnings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Spawnings.h; sourceTree = "<group>"; };
+		77D7070F1CFCF4F100B2B79B /* Spawnings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Spawnings.m; sourceTree = "<group>"; };
+		77F267291CF5288300397429 /* Cat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cat.m; sourceTree = "<group>"; };
+		77F2672B1CF53F9E00397429 /* Cat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Cat.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,17 +128,22 @@
 		772DC8F51CF153B2005BD27B /* Flappy cat */ = {
 			isa = PBXGroup;
 			children = (
+				772DC93A1CF165D9005BD27B /* source */,
 				772DC8F91CF153B2005BD27B /* AppDelegate.h */,
 				772DC8FA1CF153B2005BD27B /* AppDelegate.m */,
 				772DC8FC1CF153B2005BD27B /* GameScene.h */,
+				77F2672B1CF53F9E00397429 /* Cat.h */,
+				77F267291CF5288300397429 /* Cat.m */,
+				77D7070E1CFCF37100B2B79B /* Spawnings.h */,
+				77D7070F1CFCF4F100B2B79B /* Spawnings.m */,
 				772DC8FD1CF153B2005BD27B /* GameScene.m */,
-				772DC8FF1CF153B2005BD27B /* GameScene.sks */,
 				772DC9011CF153B2005BD27B /* GameViewController.h */,
 				772DC9021CF153B2005BD27B /* GameViewController.m */,
+				77D707061CFAEB2C00B2B79B /* Launch Screen.storyboard */,
 				772DC9041CF153B2005BD27B /* Main.storyboard */,
 				772DC9071CF153B2005BD27B /* Assets.xcassets */,
-				772DC9091CF153B2005BD27B /* LaunchScreen.storyboard */,
 				772DC90C1CF153B2005BD27B /* Info.plist */,
+				772DC8FF1CF153B2005BD27B /* GameScene.sks */,
 				772DC8F61CF153B2005BD27B /* Supporting Files */,
 			);
 			path = "Flappy cat";
@@ -146,6 +173,21 @@
 				772DC9221CF153B2005BD27B /* Info.plist */,
 			);
 			path = "Flappy catUITests";
+			sourceTree = "<group>";
+		};
+		772DC93A1CF165D9005BD27B /* source */ = {
+			isa = PBXGroup;
+			children = (
+				77D707041CFAE7FD00B2B79B /* start_page.png */,
+				77D707001CFAA0F100B2B79B /* sky_background.png */,
+				77D706EA1CF843F600B2B79B /* cat_with_wing1.png */,
+				77D706EC1CF843F600B2B79B /* cat_with_wing3.png */,
+				77D706ED1CF843F600B2B79B /* cat_with_wing2.png */,
+				77D7070A1CFBCAFB00B2B79B /* octopus.png */,
+				77D707081CFB019600B2B79B /* ice_cone.png */,
+				77D7070C1CFC489300B2B79B /* ice_block.png */,
+			);
+			name = source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,6 +257,7 @@
 				TargetAttributes = {
 					772DC8F21CF153B2005BD27B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = FAK8GE537D;
 					};
 					772DC9101CF153B2005BD27B = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -251,10 +294,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77D707051CFAE7FD00B2B79B /* start_page.png in Resources */,
 				772DC9001CF153B2005BD27B /* GameScene.sks in Resources */,
-				772DC90B1CF153B2005BD27B /* LaunchScreen.storyboard in Resources */,
+				77D706F01CF843F600B2B79B /* cat_with_wing3.png in Resources */,
+				77D707071CFAEB2C00B2B79B /* Launch Screen.storyboard in Resources */,
+				77D706F11CF843F600B2B79B /* cat_with_wing2.png in Resources */,
+				77D707091CFB019600B2B79B /* ice_cone.png in Resources */,
+				77D706EE1CF843F600B2B79B /* cat_with_wing1.png in Resources */,
 				772DC9081CF153B2005BD27B /* Assets.xcassets in Resources */,
+				77D7070B1CFBCAFB00B2B79B /* octopus.png in Resources */,
 				772DC9061CF153B2005BD27B /* Main.storyboard in Resources */,
+				77D707011CFAA0F100B2B79B /* sky_background.png in Resources */,
+				77D7070D1CFC489300B2B79B /* ice_block.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,10 +330,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77D707101CFCF4F100B2B79B /* Spawnings.m in Sources */,
 				772DC9031CF153B2005BD27B /* GameViewController.m in Sources */,
 				772DC8FB1CF153B2005BD27B /* AppDelegate.m in Sources */,
 				772DC8FE1CF153B2005BD27B /* GameScene.m in Sources */,
 				772DC8F81CF153B2005BD27B /* main.m in Sources */,
+				77F2672A1CF5288300397429 /* Cat.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,14 +377,6 @@
 				772DC9051CF153B2005BD27B /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		772DC9091CF153B2005BD27B /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				772DC90A1CF153B2005BD27B /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -425,10 +470,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Flappy cat/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "BillionsMakers.Flappy-cat";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -436,10 +484,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Flappy cat/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "BillionsMakers.Flappy-cat";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -510,6 +561,7 @@
 				772DC9271CF153B2005BD27B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		772DC9281CF153B2005BD27B /* Build configuration list for PBXNativeTarget "Flappy catTests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +570,7 @@
 				772DC92A1CF153B2005BD27B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		772DC92B1CF153B2005BD27B /* Build configuration list for PBXNativeTarget "Flappy catUITests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +579,7 @@
 				772DC92D1CF153B2005BD27B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
